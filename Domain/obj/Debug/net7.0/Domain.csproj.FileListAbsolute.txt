@@ -1,0 +1,12 @@
+D:\CSharpPractices\PostSln22.12\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\CSharpPractices\PostSln22.12\Domain\bin\Debug\net7.0\Domain.dll
+D:\CSharpPractices\PostSln22.12\Domain\bin\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\Domain.dll
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\PostSln22.12\Domain\obj\Debug\net7.0\ref\Domain.dll

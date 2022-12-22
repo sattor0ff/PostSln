@@ -1,0 +1,15 @@
+D:\CSharpPractices\PostSln22.12\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\CSharpPractices\PostSln22.12\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\CSharpPractices\PostSln22.12\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\CSharpPractices\PostSln22.12\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\CSharpPractices\PostSln22.12\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\CSharpPractices\PostSln22.12\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
